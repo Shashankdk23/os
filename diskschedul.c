@@ -176,7 +176,7 @@ void clook(int rs[])
        fmax=rs[0];
      for (i=0;i<n;i++)
     {
-        if (rs[i] > max)
+        if (rs[i] > fmax)
         {
                 fmax=rs[i];
         }
